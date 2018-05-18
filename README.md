@@ -4,6 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+DEMOREI UM POUCO MAIS PORQUE NÃO TINHA ESSE AMBIENTE INSTALADO NO UBUNTU
+ESCOLHI ANGULAR, NÃO ME PREOCUPEI MUITO DOM A PARTE DE UX
+E ESCOLHI A ARQUITETURA MAIS SIMPLES
+
+## Development server
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
